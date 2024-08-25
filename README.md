@@ -1,12 +1,12 @@
 # Linear-Regression-on-Housing-prices
 This is my first task as a machine learning intern at CodTech IT Solutions
-# Name: Kovuri Srujana
-# Company: CODTECH IT SOLUTIONS
-# ID: CT08DS6797
-# Domain: Machine Learning
-# Duration: August to September 2024
-# Mentor: Muzammil Ahmed
-# Project Title: Linear Regression on Housing Prices
+Name: Kovuri Srujana
+Company: CODTECH IT SOLUTIONS
+ID: CT08DS6797
+Domain: Machine Learning
+Duration: August to September 2024
+Mentor: Muzammil Ahmed
+Project Title: Linear Regression on Housing Prices
 # Overview of the Project:
   This project demonstrates the use of a Linear Regression model for predicting house prices based on various features such as the size of the house, number of rooms, location, and more. The dataset used in this project is a typical housing dataset containing several features that influence the price of a house.
   House price prediction is a common application of machine learning, particularly in the real estate industry. This project focuses on the following:
