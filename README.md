@@ -35,5 +35,7 @@ Model Evaluation: Evaluating the performance of the model using metrics such as 
   Mean Absolute Error (MAE): The average of the absolute differences between predicted and actual values.
     
   Mean Squared Error (MSE): The average of the squared differences between predicted and actual values.
+
+  ![Project Screenshot](image.png)
     
   R-squared: A statistical measure that indicates how well the regression model fits the data.
